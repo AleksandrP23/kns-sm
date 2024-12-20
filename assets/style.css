@@ -1,0 +1,21 @@
+/*
+Theme Name: ГЕОН
+Author: Slava Khripushin
+Author URI: https://t.me/slav4x
+Version: 2.0.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.header-opened__copy {
+	margin-top: 0;
+}
+
+@media(max-width: 1940px) {
+	.header-opened__nav {
+		font-size: 62px;
+	}
+	.header-opened__nav li {
+		margin-bottom: 20px;
+	}
+}
