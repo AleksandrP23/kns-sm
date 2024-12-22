@@ -1459,7 +1459,7 @@ div.cursors div span.visible {
     color: #0071fe !important;
 }
 
-@media (min-width: 380px) {
+@media (min-width: 320px) {
     .header-clear {
         background: 0 0;
         border-bottom: 0;
