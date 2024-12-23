@@ -7055,3 +7055,6 @@ section.unset {
   }
 }
 
+.news-col .row .col {
+  width: 33.3333%;
+}
